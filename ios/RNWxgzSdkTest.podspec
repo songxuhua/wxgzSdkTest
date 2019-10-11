@@ -9,9 +9,9 @@ Pod::Spec.new do |s|
   s.homepage     = ""
   s.license      = "MIT"
   # s.license      = { :type => "MIT", :file => "FILE_LICENSE" }
-  s.author             = { "author" => "author@domain.cn" }
-  s.platform     = :ios, "7.0"
-  s.source       = { :git => "https://github.com/author/RNWxgzSdkTest.git", :tag => "master" }
+  s.author             = { "songxuhua" => "877340657@qq.com" }
+  s.platform     = :ios, "8.0"
+  s.source       = { :git => "https://github.com/songxuhua/wxgzSdkTest.git", :tag => "master" }
   s.source_files  = "RNWxgzSdkTest/**/*.{h,m}"
   s.requires_arc = true
 

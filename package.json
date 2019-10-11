@@ -7,11 +7,15 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+      "type": "git",
+      "url": "https://github.com/songxuhua/wxgzSdkTest.git"
+  },
   "keywords": [
     "react-native"
   ],
-  "author": "",
-  "license": "",
+  "author": "songxuhua",
+  "license": "MIT",
   "peerDependencies": {
     "react-native": "^0.41.2"
   }
